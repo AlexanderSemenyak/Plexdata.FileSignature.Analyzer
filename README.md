@@ -1,3 +1,4 @@
+origin: https://github.com/akesseler/Plexdata.FileSignature.Analyzer
 <p align="center">
   <a href="https://github.com/akesseler/Plexdata.FileSignature.Analyzer/blob/master/LICENSE.md" alt="license">
     <img src="https://img.shields.io/github/license/akesseler/Plexdata.FileSignature.Analyzer.svg" />
